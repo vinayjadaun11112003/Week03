@@ -1,0 +1,3 @@
+hello world i am vinay jadaun
+this is a sameple file which is further going to be processed by the scanner object class
+this is a sample file again writing this to test
